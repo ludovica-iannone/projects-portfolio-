@@ -5,7 +5,7 @@ Focus: market analysis, sustainability metrics, and data-driven strategy.
 
 # Index
 
-- **[Master Thesis – Green Performance Index (Pharma)](./thesis-green-index/)** — Quantitative model for measuring sustainability in pharmaceutical supply chains
+- **[Master Thesis – Green Performance Index (Pharma)](./thesis-green-index/01-summary.pdf)** — Quantitative model for measuring sustainability in pharmaceutical supply chains
 
 - **[Decathlon (Feb – Jun 2025)](./Decathlon%20project%20summary.pdf)** — University Consulting Project
   
