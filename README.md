@@ -1,6 +1,6 @@
 # Ludovica Iannone — Projects Portfolio
 
-A selection of professional and acacademic projects developed during the European Master in Business Studies (EMBS).  
+A selection of professional and academic projects developed during the European Master in Business Studies (EMBS).  
 Focus: market analysis, sustainability metrics, and data-driven strategy.
 
 # Index
