@@ -1,2 +1,10 @@
-# projects-portfolio-
-Academic and internship projects from the European Master in Business Studies
+# Ludovica Iannone — Projects Portfolio
+
+A selection of academic and professional projects developed during the European Master in Business Studies (EMBS).  
+Focus: market analysis, sustainability metrics, and data-driven strategy.
+
+# Index
+
+- **[Noesis (Oct 2023 – Aug 2024)](./noesis-2023-2024/Noesis%20project%20summary.pdf)** — Strategy & Marketing Internship  
+- **[Decathlon (Feb – Jun 2024)](./Decathlon%20project%20summary.pdf)** — University Consulting Project  
+- **[Salomon & Somfy (Apr 2024)](./Salomon%20somfy%20project%20summary.pdf)** — Entrepreneurial Innovation Project  
