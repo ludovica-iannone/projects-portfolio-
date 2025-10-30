@@ -5,7 +5,7 @@ Focus: market analysis, sustainability metrics, and data-driven strategy.
 
 # Index
 
-- **[Master Thesis – Green Performance Index (Pharma)](https://github.com/ludovica-iannone/projects-portfolio/blob/main/Thesis_Expose_Green_Performance_Index.pdf)**
+- **[Master Thesis – Green Performance Index (Pharma)](./thesis-green-index/01-summary.pdf)**
 
 - **[Decathlon (Feb – Jun 2025)](./Decathlon%20project%20summary.pdf)** — University Consulting Project
   
