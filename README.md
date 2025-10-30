@@ -6,5 +6,5 @@ Focus: market analysis, sustainability metrics, and data-driven strategy.
 # Index
 
 - **[Noesis (Oct 2023 – Aug 2024)](./noesis-2023-2024/Noesis%20project%20summary.pdf)** — Strategy & Marketing Internship  
-- **[Decathlon (Feb – Jun 2024)](./Decathlon%20project%20summary.pdf)** — University Consulting Project  
-- **[Salomon & Somfy (Apr 2024)](./Salomon%20somfy%20project%20summary.pdf)** — Entrepreneurial Innovation Project  
+- **[Decathlon (Feb – Jun 2025)](./Decathlon%20project%20summary.pdf)** — University Consulting Project  
+- **[Salomon & Somfy (Apr 2025)](./Salomon%20somfy%20project%20summary.pdf)** — Entrepreneurial Innovation Project  
