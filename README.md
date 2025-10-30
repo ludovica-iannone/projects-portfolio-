@@ -4,7 +4,7 @@ A selection of professional and academic projects developed during the European 
 Focus: market analysis, sustainability metrics, and data-driven strategy.
 
 # Index
-- **[Master Thesis – Green Performance Index (Pharma)](./Thesis_Expose_Green_Performance_Index.pdf)**
+
 
 
 - **[Decathlon (Feb – Jun 2025)](./Decathlon%20project%20summary.pdf)** — University Consulting Project
